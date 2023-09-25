@@ -1,9 +1,9 @@
 # Horiseon Refactor for the Differently Abled
 ## Live Project
 https://executorkarthan.github.io/horiseon-refactor-for-differently-abled/
-![Live Screenshot 1](image.png)
-![Live Screenshot 2](image.png)
-![Live Screenshot 3](image.png)
+![Live Screenshot 1](/Live-Screenshot-1.png)
+![Live Screenshot 2](/Live-Screenshot-2.png)
+![Live Screenshot 3](/Live-Screenshot-3.png)
 
 ## Description
 
@@ -22,6 +22,9 @@ This website shows what services are available by the firm Horiseon for its clie
 
 This code originated from a source repository on Github provided to me by my instructor. That repository can be found here:
 https://github.com/coding-boot-camp/urban-octo-telegram
+
+I had originally forked that repository, which would not let me bring the site online. As a result, I needed to create an original repository. The first repository of my work can be found here:
+https://github.com/ExecutorKarthan/horiseon-refactor-for-accessibility
 
 ## License
 
