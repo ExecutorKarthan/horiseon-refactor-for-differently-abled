@@ -1,4 +1,4 @@
-# <horiseon-refactor-for-differently-abled>
+# horiseon-refactor-for-differently-abled
 
 ## Description
 
