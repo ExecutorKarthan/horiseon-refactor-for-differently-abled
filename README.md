@@ -1,4 +1,4 @@
-# horiseon-refactor-for-differently-abled
+# Horiseon Refactor for the Differently Abled
 ## Live Project
 https://executorkarthan.github.io/horiseon-refactor-for-differently-abled/
 ![Live Screenshot 1](image.png)
