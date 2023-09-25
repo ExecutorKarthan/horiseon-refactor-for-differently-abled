@@ -1,13 +1,16 @@
+/* Set the margin and padding to 0, as well as create border boxes for the entire page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Set the body background color*/
 body {
     background-color: #d9dcd6;
 }
 
+/* Create a background, text color, font family and padding for the header items*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,12 +18,14 @@ body {
     color: #ffffff;
 }
 
+/* Set font properties for the header title*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
     color: #d9dcd6;
 }
 
+/* Set properties for the navigation link text*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,6 +43,7 @@ body {
     margin-left: 25px;
 }
 
+/*Set color and text properties for anchor links and paragraphs*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -47,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Set styling for the major image of the webpage*/ 
 .hero {
     height: 800px;
     width: 100%;
@@ -66,12 +73,71 @@ p {
     margin-left: 25px;
 }
 
+/* Create styling elements in the main body sections*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Style 'Search Engine Optimization' Section*/
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Style 'Online Reputation Management' Section*/
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Style 'Social Media Marketing' Section*/
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Style 'Benefits' side bar*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -131,60 +197,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* Add styling to copyright footer*/
 .footer {
     padding: 30px;
     clear: both;
